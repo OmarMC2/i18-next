@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    
+    justify-content: space-around;
+}
+
+.header{
+    Color: blue;
+
+}
+
+.btn{
+    border-radius: 30%; 
+}
