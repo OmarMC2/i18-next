@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+
+//importamos el componente en el que veremos el uso de la i18next 
 import Header from './components/Header';
 
 function App() {
